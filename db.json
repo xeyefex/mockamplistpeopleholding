@@ -1,5 +1,5 @@
 {
-  "items": [
+  "items": {
     "currentPage": "1",
     "pageCount": "5",
     "news": [
@@ -125,5 +125,5 @@
         "headline": "Wie verhandelt man ein Zollabkommen?"
       }
     ]
-  ]
+  }
 }
