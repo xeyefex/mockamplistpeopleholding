@@ -1,8 +1,5 @@
 {
-  "items": {
-    "currentPage": "1",
-    "pageCount": "5",
-    "news": [
+      "news": [
       {
         "id": "1",
         "url": "#",
@@ -124,6 +121,9 @@
         "flag": "exkursion",
         "headline": "Wie verhandelt man ein Zollabkommen?"
       }
-    ]
+    ],
+  "items": {
+    "currentPage": "1",
+    "pageCount": "5",
   }
 }
