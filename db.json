@@ -1,8 +1,8 @@
 {
   "items": [
-    "currentPage": 1,
-    "pageCount": 5,
-    "news":[
+    "currentPage": "1",
+    "pageCount": "5",
+    "news": [
       {
         "id": "1",
         "url": "#",
