@@ -226,21 +226,6 @@
          "flag":"studienprojekt",
          "variant":"default",
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
-      },
-      {
-         "id":"31",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"EY meets school"
-      },
-      {
-         "id":"32",
-         "url":"#",
-         "variant":"tag-text",
-         "flag":"exkursion",
-         "headline":"Wie verhandelt man ein Zollabkommen?"
       }
    ]
 }
