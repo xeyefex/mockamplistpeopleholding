@@ -140,7 +140,7 @@
          "id":"19",
          "url":"#",
          "variant":"default",
-         "flag":"",
+         "flag":"vortrag",
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
       {
@@ -148,14 +148,14 @@
          "url":"#",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "variant":"text-5x4",
-         "flag":"",
+         "flag":"vortrag",
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
       },
       {
          "id":"21",
          "url":"#",
          "variant":"default",
-         "flag":"",
+         "flag":"veröffentlichung",
          "headline":"„Working for the greater good“"
       },
       {
@@ -179,7 +179,7 @@
          "url":"#",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "variant":"text-5x4",
-         "flag":"",
+         "flag":"interview",
          "headline":"David Kaiser erzählt von seinem Praxissemester"
       },
       {
@@ -194,7 +194,7 @@
          "id":"26",
          "url":"#",
          "variant":"default",
-         "flag":"",
+         "flag":"karriere",
          "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
       },
       {
@@ -202,14 +202,14 @@
          "url":"#",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "variant":"text-5x4",
-         "flag":"",
+         "flag":"internationales",
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
       },
       {
          "id":"28",
          "url":"#",
          "variant":"default",
-         "flag":"",
+         "flag":"internationales",
          "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
       },
       {
@@ -223,7 +223,7 @@
       {
          "id":"30",
          "url":"#",
-         "flag":"",
+         "flag":"studienprojekt",
          "variant":"default",
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
