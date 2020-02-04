@@ -227,5 +227,127 @@
          "variant":"default",
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       }
+   ],
+   "courses":[
+      {
+         "id":"1",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": false,
+         "tags": [],
+         "location": "Dresden",
+         "flag":"",
+         "headline":"Internationales Hotelmanagement"
+      },
+      {
+         "id":"2",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": true,
+         "tags": ["dual"],
+         "location": "",
+         "flag":"dual",
+         "headline":"Internationales Hotelmanagement"
+      },
+      {
+         "id":"3",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": true,
+         "tags": ["english"],
+         "location": "",
+         "flag":"english",
+         "headline":"Internationales Hotel Management"
+      },
+      {
+         "id":"4",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": true,
+         "tags": ["Flag1", "Flag2", "Freitextfeld", "In Akkreditierung"],
+         "location": "Dresden",
+         "flag":"dual",
+         "headline":"Internationale Betriebswirtschaftslehre - Schwerpunkt Wirtschaftspsychologie"
+      },
+      {
+         "id":"5",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": false,
+         "tags": [],
+         "location": "",
+         "flag":"",
+         "headline":"Internationale Betriebswirtschaftslehre"
+      },
+      {
+         "id":"6",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": true,
+         "tags": ["Flag1", "Flag2"],
+         "location": "",
+         "flag":"",
+         "headline":"Internationale Betriebswirtschaftslehre"
+      },
+      {
+         "id":"7",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": false,
+         "tags": [],
+         "location": "Dresden",
+         "flag":"",
+         "headline":"Internationales Hotelmanagement"
+      },
+      {
+         "id":"8",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": true,
+         "tags": ["dual"],
+         "location": "",
+         "flag":"dual",
+         "headline":"Internationales Hotelmanagement"
+      },
+      {
+         "id":"9",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": true,
+         "tags": ["english"],
+         "location": "",
+         "flag":"english",
+         "headline":"Internationales Hotel Management"
+      },
+      {
+         "id":"10",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": true,
+         "tags": ["Flag1", "Flag2", "Freitextfeld", "In Akkreditierung"],
+         "location": "Dresden",
+         "flag":"dual",
+         "headline":"Internationale Betriebswirtschaftslehre - Schwerpunkt Wirtschaftspsychologie"
+      },
+      {
+         "id":"11",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": false,
+         "tags": [],
+         "location": "",
+         "flag":"",
+         "headline":"Internationale Betriebswirtschaftslehre"
+      },
+      {
+         "id":"12",
+         "url":"#",
+         "subtitle": "Bachelor of Arts (B.A.)",
+         "hastags": true,
+         "tags": ["Flag1", "Flag2"],
+         "location": "",
+         "flag":"",
+         "headline":"Internationale Betriebswirtschaftslehre"
+      }
    ]
 }
