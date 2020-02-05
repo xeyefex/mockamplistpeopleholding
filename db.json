@@ -1,124 +1,100 @@
 {
-   "courses":[
+   "people":[
       {
          "id":"1",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": false,
-         "tags": [],
-         "location": "Dresden",
-         "flag":"",
-         "headline":"Internationales Hotelmanagement"
+         "flag":"studiengangsleiter",
+         "headline":"Titel Vorname Nachname",
+         "subtitle": "Typ",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"2",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": true,
-         "tags": ["dual"],
-         "location": "",
-         "flag":"dual",
-         "headline":"Internationales Hotelmanagement"
+         "flag":"ansprechpartner",
+         "headline":"Prof. Dr. rer. nat. l. Nadja Sennewald-Hofecker",
+         "subtitle": "Wissenschaftliche/r Angestellte/r",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"3",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": true,
-         "tags": ["english"],
-         "location": "",
-         "flag":"english",
-         "headline":"Internationales Hotel Management"
+         "flag":"",
+         "headline":"Ivan Drazic",
+         "subtitle": "Wissenschaftliche/r Angestellte/r",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"4",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": true,
-         "tags": ["Flag1", "Flag2", "Freitextfeld", "In Akkreditierung"],
-         "location": "Dresden",
-         "flag":"dual",
-         "headline":"Internationale Betriebswirtschaftslehre - Schwerpunkt Wirtschaftspsychologie"
+         "flag":"",
+         "headline":"Titel Vorname Nachname",
+         "subtitle": "Typ",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"5",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": false,
-         "tags": [],
-         "location": "",
          "flag":"",
-         "headline":"Internationale Betriebswirtschaftslehre"
+         "headline":"Ivan Drazic",
+         "subtitle": "Wissenschaftliche/r Angestellte/r",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"6",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": true,
-         "tags": ["Flag1", "Flag2"],
-         "location": "",
-         "flag":"",
-         "headline":"Internationale Betriebswirtschaftslehre"
+         "flag":"ansprechpartner",
+         "headline":"Prof. Dr. rer. nat. l. Nadja Sennewald-Hofecker",
+         "subtitle": "Wissenschaftliche/r Angestellte/r",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"7",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": false,
-         "tags": [],
-         "location": "Dresden",
          "flag":"",
-         "headline":"Internationales Hotelmanagement"
+         "headline":"Titel Vorname Nachname",
+         "subtitle": "Typ",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"8",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": true,
-         "tags": ["dual"],
-         "location": "",
-         "flag":"dual",
-         "headline":"Internationales Hotelmanagement"
+         "flag":"",
+         "headline":"Titel Vorname Nachname",
+         "subtitle": "Typ",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"9",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": true,
-         "tags": ["english"],
-         "location": "",
-         "flag":"english",
-         "headline":"Internationales Hotel Management"
+         "flag":"",
+         "headline":"Titel Vorname Nachname",
+         "subtitle": "Typ",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"10",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": true,
-         "tags": ["Flag1", "Flag2", "Freitextfeld", "In Akkreditierung"],
-         "location": "Dresden",
-         "flag":"dual",
-         "headline":"Internationale Betriebswirtschaftslehre - Schwerpunkt Wirtschaftspsychologie"
+         "flag":"studiengangsleiter",
+         "headline":"Titel Vorname Nachname",
+         "subtitle": "Typ",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"11",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": false,
-         "tags": [],
-         "location": "",
          "flag":"",
-         "headline":"Internationale Betriebswirtschaftslehre"
+         "headline":"Titel Vorname Nachname",
+         "subtitle": "Typ",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       },
       {
          "id":"12",
          "url":"#",
-         "subtitle": "Bachelor of Arts (B.A.)",
-         "hastags": true,
-         "tags": ["Flag1", "Flag2"],
-         "location": "",
          "flag":"",
-         "headline":"Internationale Betriebswirtschaftslehre"
+         "headline":"Titel Vorname Nachname",
+         "subtitle": "Typ",
+         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
       }
    ]
 }
