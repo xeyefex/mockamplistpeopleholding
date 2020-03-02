@@ -3,7 +3,7 @@
       {
          "id":"1",
          "url":"#",
-         "flag":"studiengangsleiter",
+         "flag": ["studiengangsleiter", "ansprechpartner"],
          "headline":"Titel Vorname Nachname",
          "subtitle": "Typ",
          "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
@@ -11,7 +11,7 @@
       {
          "id":"2",
          "url":"#",
-         "flag":"ansprechpartner",
+         "flag": ["ansprechpartner"],
          "headline":"Prof. Dr. rer. nat. l. Nadja Sennewald-Hofecker",
          "subtitle": "Wissenschaftliche/r Angestellte/r",
          "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
@@ -43,7 +43,7 @@
       {
          "id":"6",
          "url":"#",
-         "flag":"ansprechpartner",
+         "flag":["ansprechpartner"],
          "headline":"Prof. Dr. rer. nat. l. Nadja Sennewald-Hofecker",
          "subtitle": "Wissenschaftliche/r Angestellte/r",
          "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
@@ -75,7 +75,7 @@
       {
          "id":"10",
          "url":"#",
-         "flag":"studiengangsleiter",
+         "flag":["studiengangsleiter"],
          "headline":"Titel Vorname Nachname",
          "subtitle": "Typ",
          "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
