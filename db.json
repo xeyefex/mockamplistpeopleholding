@@ -7,7 +7,7 @@
          "headline":"Titel Vorname Nachname",
          "subtitle": "Typ",
          "image":"false",
-         "themeColorClass": "st-orange"
+         "themeColorClass": "st-grey"
       },
       {
          "id":"2",
@@ -24,7 +24,7 @@
          "headline":"Ivan Drazic",
          "subtitle": "Wissenschaftliche/r Angestellte/r",
          "image":"false",
-         "themeColorClass": "st-orange"
+         "themeColorClass": "st-grey"
       },
       {
          "id":"4",
