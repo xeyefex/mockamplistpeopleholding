@@ -6,7 +6,7 @@
          "flag":["studiengangsleiter", "ansprechpartner"],
          "headline":"Titel Vorname Nachname",
          "subtitle": "Typ",
-         "image":"false",
+         "image":"",
          "themeColorClass": "st-grey"
       },
       {
@@ -23,7 +23,7 @@
          "flag":"",
          "headline":"Ivan Drazic",
          "subtitle": "Wissenschaftliche/r Angestellte/r",
-         "image":"false",
+         "image":"",
          "themeColorClass": "st-grey"
       },
       {
