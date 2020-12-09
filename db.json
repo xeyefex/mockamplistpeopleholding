@@ -6,7 +6,8 @@
          "flag":["studiengangsleiter", "ansprechpartner"],
          "headline":"Titel Vorname Nachname",
          "subtitle": "Typ",
-         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
+         "image":"false",
+         "themeColorClass": "st-orange"
       },
       {
          "id":"2",
@@ -22,7 +23,8 @@
          "flag":"",
          "headline":"Ivan Drazic",
          "subtitle": "Wissenschaftliche/r Angestellte/r",
-         "image":"https://satyr.io/400x500/bbbbbb/333333?texture=cross"
+         "image":"false",
+         "themeColorClass": "st-orange"
       },
       {
          "id":"4",
